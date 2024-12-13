@@ -190,7 +190,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -28.8184, 2.80471, -1.40497)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -74.8717, 12.7198, -36.6073)
 
 [node name="checkpoint3" parent="World" instance=ExtResource("12_l538e")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -97.4771, 13.9516, 2.59732)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -109.553, 13.9278, 8.1449)
 
 [node name="platform10" parent="World" instance=ExtResource("13_rt34g")]
 transform = Transform3D(0.999791, 0, -0.0204715, 0, 1, 0, 0.0204715, 0, 0.999791, -37.0953, 2.1308, -1.15731)
